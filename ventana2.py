@@ -207,4 +207,9 @@ class Ventana2(QMainWindow):
         from ventana3 import Ventana3
         self.hide()
         self.ventana3 = Ventana3()
+<<<<<<< HEAD
         self.ventana3.show()
+=======
+        self.ventana3.show()
+
+>>>>>>> 958890bc9c3c25431af55f892028f2b3c9303013
