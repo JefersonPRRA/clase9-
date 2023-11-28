@@ -14,6 +14,7 @@ class Cliente:
                 ):
         self.nombreCompleto = nombreCompleto
         self.usuario = usuario
+        #
         self.password = password
         self.documento = documento
         self.correo = correo
