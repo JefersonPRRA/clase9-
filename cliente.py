@@ -12,9 +12,9 @@ class Cliente:
                 pregunta3,
                 respuesta3,
                 ):
+        #######################################################
         self.nombreCompleto = nombreCompleto
         self.usuario = usuario
-        #
         self.password = password
         self.documento = documento
         self.correo = correo
