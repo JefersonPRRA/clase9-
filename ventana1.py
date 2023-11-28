@@ -1,5 +1,4 @@
 import sys
-import bcrypt
 from cliente import Cliente
 from ventana2 import Ventana2
 
@@ -635,7 +634,6 @@ class Ventana1(QMainWindow):
 
             self.file.close()
 
-            # en este punto ya tenemos la lista con los usuarios
 
             # variable para controlar si existe el documento
             existeDocumento = False
