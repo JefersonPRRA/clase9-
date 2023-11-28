@@ -635,7 +635,6 @@ class Ventana1(QMainWindow):
 
             self.file.close()
 
-            # en este punto ya tenemos la lista con los usuarios
 
             # variable para controlar si existe el documento
             existeDocumento = False
