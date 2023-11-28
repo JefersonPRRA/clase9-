@@ -1,7 +1,6 @@
 import sys
 from cliente import Cliente
 from ventana2 import Ventana2
-
 from PyQt5.QtGui import QPixmap, QFont
 from PyQt5.QtWidgets import QMainWindow, QDesktopWidget, QLabel, QHBoxLayout, QApplication, QFormLayout, QPushButton, \
     QLineEdit, QDialog, QDialogButtonBox, QVBoxLayout
