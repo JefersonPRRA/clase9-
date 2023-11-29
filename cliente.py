@@ -14,10 +14,6 @@ class Cliente:
                 ):
         self.nombreCompleto = nombreCompleto
         self.usuario = usuario
-<<<<<<< HEAD
-=======
-        #
->>>>>>> 958890bc9c3c25431af55f892028f2b3c9303013
         self.password = password
         self.documento = documento
         self.correo = correo
@@ -29,9 +25,9 @@ class Cliente:
         self.respuesta3 = respuesta3
 
     def __str__(self):
-<<<<<<< HEAD
-        return f"Nombre: {self.nombreCompleto} Documento: {self.documento}"
-=======
+
         return f"Nombre: {self.nombreCompleto} Documento: {self.documento}"
 
->>>>>>> 958890bc9c3c25431af55f892028f2b3c9303013
+        return f"Nombre: {self.nombreCompleto} Documento: {self.documento}"
+
+
