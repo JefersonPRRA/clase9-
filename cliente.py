@@ -17,6 +17,7 @@ class Cliente:
         self.password = password
         self.documento = documento
         self.correo = correo
+        ####################
         self.pregunta1 = pregunta1
         self.respuesta1 = respuesta1
         self.pregunta2 = pregunta2
